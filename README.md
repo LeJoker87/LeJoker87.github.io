@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="./style.css">
 <link rel="icon" href="./images/joker-visage.png">
-<title>The Joker Coder87</title>
+<title>LeJoker87</title>
 </head>
 
 <body class="scale-in-center">
